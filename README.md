@@ -105,7 +105,9 @@ Run the app using the WSGI entry point:
 
 `python wsgi.py` 
 
-Visit `http://127.0.0.1:8000` in your browser to test the application.
+Test your application with a simple curl:
+`curl -X POST http://127.0.0.1:8000/ask -H "Content-Type: application/json" -d '{"question": "What is Rotary?"}'`
+
 
 * * *
 
