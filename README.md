@@ -55,9 +55,8 @@ Prerequisites
 Project Structure
 -----------------
 
-bash
-
-`.
+```
+.
 ├── .ebextensions
 │   └── 01_install.config       # Container commands for EB dependency installation
 ├── .env                        # Environment variables (not checked into Git)
@@ -66,7 +65,8 @@ bash
 ├── README.md                   # This file
 ├── requirements.txt            # Python dependencies
 ├── rotary_ai.py                # Main Flask application code
-└── wsgi.py                     # WSGI entry point for Gunicorn` 
+└── wsgi.py                     # WSGI entry point for Gunicorn
+``` 
 
 * * *
 
