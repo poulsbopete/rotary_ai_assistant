@@ -303,5 +303,3 @@ This project is licensed under the MIT License.
 * * *
 
 This README provides a comprehensive guide for both AWS Elastic Beanstalk and IONOS VPS deployments. Adjust any paths, domain names, or configuration details as needed for your setup. Let me know if you need further clarification or additional instructions!
-
-![Export to Google Doc](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/create.svg)![Copy with formatting](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/copy.svg)![Select for Multi-select](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/multi-select.svg)
