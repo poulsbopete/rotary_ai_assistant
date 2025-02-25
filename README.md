@@ -75,7 +75,7 @@ Local Setup
 
 ### 1\. Clone the Repository
 
-`git clone https://github.com/yourusername/rotary_ai_assistant.git
+`git clone https://github.com/poulsbopete/rotary_ai_assistant.git
 cd rotary_ai_assistant` 
 
 ### 2\. Create and Activate a Virtual Environment
